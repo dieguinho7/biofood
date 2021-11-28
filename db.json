@@ -7,7 +7,7 @@
      "hcarbono" : 12,
      "proteinas" : 17,
      "grasas" : 16,
-     "fibras : 0,
+     "fibras" : 0,
      "grupo" : "Grupo 2: Carnes, pescados y huevos"
     }
     {
@@ -17,7 +17,7 @@
      "hcarbono" : 0,
      "proteinas" : 0,
      "grasas" : 100,
-     "fibras : 0,
+     "fibras" : 0,
      "grupo" : "Grupo 7: Grasas, aceite y mantequilla"
     }
         {
@@ -27,7 +27,7 @@
      "hcarbono" : 0,
      "proteinas" : 0,
      "grasas" : 100,
-     "fibras : 0,
+     "fibras" : 0,
      "grupo" : "Grupo 7: Grasas, aceite y mantequilla"
     }
         
