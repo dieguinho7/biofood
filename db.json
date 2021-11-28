@@ -12,7 +12,7 @@
     }
     {
      "id": 2,
-     "nombre": 'Aceite de cacahuete',
+     "nombre": "Aceite de cacahuete",
      "calorias": 899,
      "hcarbono" : 0,
      "proteinas" : 0,
